@@ -4,3 +4,6 @@ Motor Trend is a magazine about the automobile industry. Looking at a data set o
     "Quantify the MPG difference between automatic and manual transmissions"
     
 The goal of this project is to answer their questions.
+
+## To preview HTML files on GitHub:
+Please visit : https://htmlpreview.github.io/
